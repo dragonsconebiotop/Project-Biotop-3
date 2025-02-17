@@ -1,5 +1,4 @@
 # Project-Biotop-3
-# Pflanzenliste
-# Karteikarten-App
+# Pflanzenliste - Karteikarten-App
 # Doppelklick "Index.html"
 # Ready!
